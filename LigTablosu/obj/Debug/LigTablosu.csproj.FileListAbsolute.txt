@@ -1,0 +1,20 @@
+C:\Users\ataka\source\repos\LigTablosu\bin\Debug\LigTablosu.exe.config
+C:\Users\ataka\source\repos\LigTablosu\bin\Debug\LigTablosu.exe
+C:\Users\ataka\source\repos\LigTablosu\bin\Debug\LigTablosu.pdb
+C:\Users\ataka\source\repos\LigTablosu\obj\Debug\LigTablosu.csproj.AssemblyReference.cache
+C:\Users\ataka\source\repos\LigTablosu\obj\Debug\LigTablosu.Form1.resources
+C:\Users\ataka\source\repos\LigTablosu\obj\Debug\LigTablosu.Properties.Resources.resources
+C:\Users\ataka\source\repos\LigTablosu\obj\Debug\LigTablosu.csproj.GenerateResource.cache
+C:\Users\ataka\source\repos\LigTablosu\obj\Debug\LigTablosu.csproj.CoreCompileInputs.cache
+C:\Users\ataka\source\repos\LigTablosu\obj\Debug\LigTablosu.exe
+C:\Users\ataka\source\repos\LigTablosu\obj\Debug\LigTablosu.pdb
+H:\Görsel programlama\LigTablosu\bin\Debug\LigTablosu.exe.config
+H:\Görsel programlama\LigTablosu\bin\Debug\LigTablosu.exe
+H:\Görsel programlama\LigTablosu\bin\Debug\LigTablosu.pdb
+H:\Görsel programlama\LigTablosu\obj\Debug\LigTablosu.csproj.AssemblyReference.cache
+H:\Görsel programlama\LigTablosu\obj\Debug\LigTablosu.Form1.resources
+H:\Görsel programlama\LigTablosu\obj\Debug\LigTablosu.Properties.Resources.resources
+H:\Görsel programlama\LigTablosu\obj\Debug\LigTablosu.csproj.GenerateResource.cache
+H:\Görsel programlama\LigTablosu\obj\Debug\LigTablosu.csproj.CoreCompileInputs.cache
+H:\Görsel programlama\LigTablosu\obj\Debug\LigTablosu.exe
+H:\Görsel programlama\LigTablosu\obj\Debug\LigTablosu.pdb
